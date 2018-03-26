@@ -1,6 +1,6 @@
 # How to make a bed
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+
+<html>
     <body>
       <b>About this task: Steps required to make a bed.</b>
         <ol>
